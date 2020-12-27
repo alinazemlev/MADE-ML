@@ -2,8 +2,6 @@ opencv-python
 streamlit>0.66
 tensorflow==2.2.0
 keras==2.4.2
-zipfile
 tf_keras_vis
 matplotlib
 requests
-urllib
