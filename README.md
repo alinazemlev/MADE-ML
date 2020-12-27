@@ -10,6 +10,11 @@ Project contains two modes:
 
 ![Making-of Animation](https://raw.githubusercontent.com/alinazemlev/MADE-ML/main/project.gif "Making-of Animation")
 
+## Requirements
+```
+Browser: Google Chrome(version 87.0.4280.88 or higher) or Mozila Fifefox(version 79.0 or higher)
+```
+
 ## How to run this demo
 ```
 pip install -r https://raw.githubusercontent.com/alinazemlev/MADE-ML/main/requirements.txt
